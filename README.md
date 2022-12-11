@@ -11,7 +11,7 @@ Architecture Plus 2 is designed to be a hands on experiences for building struct
 - [Fabric Essentials](https://mcreator.net/plugin/92672/fabric-essentials): A plugin made by Kleiders and NerdyPuzzle for expanding the Fabric Generator Plugin.
 - [NorthWestTrees Gaming](https://www.youtube.com/@NorthWestTreesGaming): For creation of the modification and concept.
 
-## Official Sites
+## Official Sites and Quick Pages
 - [💡 Suggest A Feature](https://github.com/northwesttrees-gaming/Architecture-Plus/issues/new?assignees=&labels=Feature&template=feature_request.md&title=%5BFEATURE%5D)
 - [🐞 Report A Problem](https://github.com/northwesttrees-gaming/Architecture-Plus/issues/new?assignees=&labels=Bug&template=bug_report.md&title=%5BBUG%5Dhttps://github.com/northwesttrees-gaming/Architecture-Plus/issues/new?assignees=&labels=Feature&template=feature_request.md&title=%5BFEATURE%5D)
 - [📚 Wiki](https://github.com/northwesttrees-gaming/Architecture-Plus/wiki)
